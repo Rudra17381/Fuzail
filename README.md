@@ -77,8 +77,31 @@ React Dashboard (real-time updates)
 
 ## Quick Start Guide
 
-### Prerequisites
+### 🚀 One-Click Setup (Recommended)
 
+For the fastest setup experience, use the automated scripts:
+
+1. **First time setup:** Double-click `setup.bat`
+   - Creates virtual environment
+   - Installs all dependencies
+   - Sets up database
+   - Creates admin user
+   - Seeds test data
+
+2. **Daily usage:** Double-click `start.bat`
+   - Starts Django backend
+   - Starts React frontend
+   - Opens both in separate windows
+
+3. **Stop servers:** Double-click `stop.bat`
+
+📖 **Detailed instructions:** See [QUICK_START.md](QUICK_START.md)
+
+### Manual Setup (Advanced)
+
+If you prefer manual control:
+
+**Prerequisites:**
 - Python 3.13+
 - Node.js 22+
 - Redis server (for Celery and Channels)
