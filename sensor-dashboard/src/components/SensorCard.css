@@ -1,0 +1,105 @@
+.sensor-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--border-radius-md);
+  padding: var(--spacing-md);
+  transition: all var(--transition-normal);
+}
+
+.sensor-card:hover {
+  border-color: var(--border-color-hover);
+  box-shadow: 0 4px 12px rgba(79, 123, 255, 0.1);
+  transform: translateY(-2px);
+}
+
+.sensor-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spacing-md);
+  padding-bottom: var(--spacing-sm);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.sensor-title {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-sm);
+}
+
+.sensor-id {
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.sensor-status {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  padding: 2px 8px;
+  border-radius: var(--border-radius-sm);
+  background: rgba(79, 123, 255, 0.1);
+}
+
+.last-update {
+  font-size: 11px;
+  color: var(--text-secondary);
+}
+
+.sensor-card-body {
+  margin-bottom: var(--spacing-md);
+}
+
+.sparkline-section {
+  margin-top: var(--spacing-sm);
+}
+
+.sparkline-label {
+  font-size: 11px;
+  color: var(--text-secondary);
+  margin-bottom: 4px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.sensor-card-footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--spacing-sm);
+  padding-top: var(--spacing-sm);
+  border-top: 1px solid var(--border-color);
+}
+
+.stat {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.stat-label {
+  font-size: 10px;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.stat-value {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .sensor-card {
+    padding: var(--spacing-sm);
+  }
+
+  .sensor-card-footer {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--spacing-xs);
+  }
+}

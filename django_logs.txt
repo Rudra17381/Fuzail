@@ -1,0 +1,463 @@
+Watching for file changes with StatReloader
+[15/Nov/2025 13:21:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:21:21] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:21:21] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:21:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:21:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:21:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:21:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:25] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:25] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:25] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:25] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:25] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:25] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:26] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:26] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:26] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:26] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:26] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:26] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:27] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:27] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:27] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:27] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:27] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:27] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:39] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:39] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:22:39] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:39] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:39] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:40] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:22:51] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:10] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:23:10] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:23:10] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:10] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:10] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:10] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:10] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:10] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:10] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:10] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:10] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:10] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:10] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:10] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:13] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:13] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:16] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:17] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:20] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:20] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:23:21] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:23:21] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:23:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:21] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:21] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:21] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:21] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:21] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:23:21] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:23:21] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:21] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:23:21] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:21] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:24] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:24] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:27] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:28] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:31] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:31] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:34] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:34] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:37] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:23:38] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:23:51] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:24:18] "GET /api/sensors/1/history/?start_time=2025-11-15T20:24:18.864Z&end_time=2025-11-15T21:24:18.864Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:24:18] "GET /api/sensors/1/history/?start_time=2025-11-15T20:24:18.864Z&end_time=2025-11-15T21:24:18.864Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:24:18] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:18] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:24:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:24:45] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:45] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:45] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:24:45] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:24:45] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:24:45] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:45] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:24:45] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:24:45] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:24:45] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:24:45] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:24:45] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:24:48] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:24:51] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:24:55] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:24:58] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:25:01] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:25:05] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:25:08] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:25:12] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:25:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+Not Found: /ws/sensors/
+[15/Nov/2025 13:25:15] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:25:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:26:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:26:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:27:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:27:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:28:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:28:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:29:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:29:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:30:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:30:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:31:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:31:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:32:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:32:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:33:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:33:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:34:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:34:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:35:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:35:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:36:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:36:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:37:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:37:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:38:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:38:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:39:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:39:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:40:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:40:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:41:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:41:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:42:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:42:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:43:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:43:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:44:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:44:45] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:45:15] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:45:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:45:37] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:45:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:45:37] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:45:37] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:45:37] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:45:37] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:45:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:45:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:45:37] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:37] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:38] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:38] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:45:38] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:45:38] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:45:38] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:38] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:41] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:44] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:47] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:51] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:54] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:45:57] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:01] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:04] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:07] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:46:07] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:47] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:46:47,683] - Broken pipe from ('127.0.0.1', 57477)
+[15/Nov/2025 13:46:47] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:46:47] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:46:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:46:47] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:46:47] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:46:47] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:46:47] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:46:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:46:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:46:47] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:46:47] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:46:47] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:46:47] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:50] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:51] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:53] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:54] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:57] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:46:57] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:47:00] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:47:01] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:47:04] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:47:17] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:47:29] "GET /api/sensors/1/history/?start_time=2025-11-15T20:47:29.596Z&end_time=2025-11-15T21:47:29.596Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:47:29] "GET /api/sensors/1/history/?start_time=2025-11-15T20:47:29.596Z&end_time=2025-11-15T21:47:29.596Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:47:29] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:47:29] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+Not Found: /ws/sensors/
+[15/Nov/2025 13:47:34] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:47:34,622] - Broken pipe from ('127.0.0.1', 57567)
+[15/Nov/2025 13:47:34] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:47:34] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:47:34] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:47:34] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:47:34] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:47:34] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:47:34] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:47:34] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:47:34] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:47:34] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:47:34] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:47:34] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:47:34] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:48:04] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:48:34] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:37] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:55:37] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:55:37] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:55:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:37] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:37] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:37] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:37] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:37] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:37] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:37] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:37] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:37] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:40] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:43] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:55:46] "GET /api/sensors/1/history/?start_time=2025-11-15T20:55:46.689Z&end_time=2025-11-15T21:55:46.689Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:55:46] "GET /api/sensors/1/history/?start_time=2025-11-15T20:55:46.688Z&end_time=2025-11-15T21:55:46.688Z&resolution=auto HTTP/1.1" 200 139
+[15/Nov/2025 13:55:46] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:46] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:47] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:55:47] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:55:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:47] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:47] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:47] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:47] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:47] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:48] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:48] "GET /api/sensors/list/ HTTP/1.1" 200 1492
+[15/Nov/2025 13:55:48] "GET /api/sensors/6/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/5/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/1/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/3/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/4/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/2/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/7/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/8/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/9/live/ HTTP/1.1" 200 35
+[15/Nov/2025 13:55:48] "GET /api/sensors/10/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:48] "GET /api/sensors/11/live/ HTTP/1.1" 200 36
+[15/Nov/2025 13:55:48] "GET /api/sensors/12/live/ HTTP/1.1" 200 36
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:48] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:51] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:54] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:55:57] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:56:01] "GET /ws/sensors/ HTTP/1.1" 404 2371
+Not Found: /ws/sensors/
+[15/Nov/2025 13:56:04] "GET /ws/sensors/ HTTP/1.1" 404 2371
+[15/Nov/2025 13:56:17] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:56:47] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:57:18] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:57:48] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:58:18] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:58:48] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 13:59:18] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 14:00:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 14:01:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 14:51:53] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 14:52:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 14:53:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 17:01:53] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
+[15/Nov/2025 17:02:20] "GET /api/sensors/anomalies/?hours=24 HTTP/1.1" 200 26
