@@ -5,6 +5,13 @@
  * Provides automatic reconnection, event handling, and data buffering
  */
 
+// ============================================
+// MOCK MODE - Disable WebSocket for screenshots
+// Set to true to disable real-time updates (static data)
+// Set to false to enable WebSocket connection
+// ============================================
+const MOCK_MODE = true;
+
 const WS_URL = 'ws://localhost:8000/ws/sensors/';
 const RECONNECT_DELAY = 3000; // 3 seconds
 const MAX_RECONNECT_ATTEMPTS = 10;
@@ -25,6 +32,12 @@ class WebSocketService {
    * Connect to WebSocket server
    */
   connect() {
+    if (MOCK_MODE) {
+      console.log('[WS] Mock mode enabled - WebSocket connection disabled');
+      this.connected = false;
+      return;
+    }
+
     if (this.ws && (this.ws.readyState === WebSocket.OPEN || this.ws.readyState === WebSocket.CONNECTING)) {
       console.log('[WS] Already connected or connecting');
       return;
